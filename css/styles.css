@@ -107,6 +107,7 @@ table{
 @media only screen and (max-width: 768px) {
     [class*="col-"] {
         width: 100%;
+	    font-size:18px;
 
     }
     .f1content{
@@ -130,6 +131,7 @@ table{
 @media only screen and (max-width: 480px) {
     [class*="col-"] {
         width: 100%;
+	     font-size:18px;
 
     }
     .f1content{
